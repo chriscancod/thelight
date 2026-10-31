@@ -3,6 +3,7 @@
 Catholic men's essentials brand and website. **Private repo. Not published. No domain. No checkout.**
 
 ## Status (2026-10-31)
+- `logo-original.webp`: the TheLight logo (arched window, cross, rays) from Chris; embedded in index.html (nav mark, hero mark, footer).
 - `index.html`: first local preview ("stone and light" look): hero, 4 proposed essentials, faith pieces, story.
 - Proposed essentials (from the Tapstitch pool, all need approval): Long Sleeve Tee, Henley, Everyday Polo, Fleece Polo Sweatshirt. Not chosen: Contour Chinos (women's cut), Weekday Button-Up (100% polyester, 145 gsm).
 - Faith pieces carried over from 2AM (Printify): Journey to Christ hoodie/shirt/phone case, Faith Over Fear hoodie.
