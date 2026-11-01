@@ -24,3 +24,9 @@ Do not write softness, durability or "premium" claims that the listings do not m
 - `wearthelight.net`: available, about $19 first year.
 - `lightloom.shop` (different name): available, about $10.
 The quote tool is Shopify's; you can register at any registrar. Nothing was bought. Pick the name with mom first (a store domain also shapes the brand name and is hard to change later).
+
+## Domain update 2026-11-01: Chris wants `.online` with about a $5 renewal
+- Available now (quoted by Shopify's tool, first year about $11): `wearthelight.online`, `walkinthelight.online`, `thelightco.online`. `thelight.online` is taken.
+- **A $5 renewal on `.online` does not look real.** The web results I found put `.online` renewals at roughly $28 to $55 a year depending on the registrar (aggregator pages, July to September 2026; they disagree with each other, so check the registrar's own checkout). Cheap first years (about $1 to $3) are common and then the price jumps. I could not find Cloudflare's or Porkbun's `.online` renewal.
+- Cheapest honest option for launch: **no new domain**. Put TheLight on a subdomain of one Chris already owns (`thelight.mambru.online`, free) until sales pay for its own name.
+- Check what `mambru.online` and `2amcases.online` renew at in the registrar account (an adult has the login): that is the real `.online` number for us.
