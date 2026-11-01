@@ -6,7 +6,7 @@ Nothing here is bought, published, connected or charged. "Needs mom" = money, ac
 |---|---|---|---|
 | 1 | Prints: the Tapstitch pieces carry the small 2AM mark | OPEN | Chris decides: TheLight artwork, or plain blanks for v1 (blanks are the fastest honest option). Needs a clean TheLight mark file (see 3). |
 | 2 | Real fit and fabric facts | DONE from our files (below), re-check on the live Tapstitch page before launch | Claude re-checks each listing when Chris picks the final colors. |
-| 3 | Logo as a transparent or vector file | OPEN: only `logo-original.webp` (raster) exists | Chris: send the original artwork if it exists. Otherwise Claude can trace it to SVG (like the 2AM logo) and Chris approves the result. |
+| 3 | Logo as a transparent or vector file | DONE (traced): `logo-vector.svg`, one color (`currentColor`, so it can be black or white), transparent background, 12 KB. Looks identical to the original when rendered | Chris approves it. It is a trace, not the designer's original file: if a source file exists, prefer that for printing. Not yet used in `index.html` (still the webp). |
 | 4 | Square account and test mode | OPEN, not read | Needs mom. Check: in the Square dashboard (not Railway) which location the 2AM store charges, and that `SQUARE_ENV` is sandbox until a test checkout passes. TheLight should get its own Square location so sales and tax stay separate. |
 | 5 | Faith pieces (Journey to Christ, Faith Over Fear) | OPEN: they are Printify items | Move fulfillment first; keep the Printify key until then (see BRAND_REVIEW_PACK). |
 | 6 | Domain | OPEN, priced only | Needs mom (see prices). |
