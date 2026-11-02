@@ -1,6 +1,6 @@
 # TheLight (preview)
 
-Catholic men's essentials brand and website. **Private repo. Not published. No domain. No checkout.**
+Catholic men's essentials brand and website. **LIVE as a labeled preview at https://thelight.2amcases.online (since 2026-11-01; repo is now public). No checkout, no prices.**
 
 ## Status (2026-10-31)
 - `logo-original.webp`: the TheLight logo (arched window, cross, rays) from Chris; embedded in index.html (nav mark, hero mark, footer).
