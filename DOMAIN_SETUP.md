@@ -18,7 +18,7 @@ Repo `chriscancod/thelight` > Settings > Pages:
 **Catch:** GitHub Pages from a PRIVATE repo needs a paid GitHub plan. On the free plan the repo has to be made public, which lets anyone read `index.html` (nothing secret is in it; it only has public image links). Chris and mom decide which.
 
 ## What visitors will see
-The page says "Preview only · not live · no checkout · prices and pieces are proposals" and tags every piece "Proposed". It shows 2AM-marked sample images until TheLight prints exist (see LAUNCH_BLOCKERS.md). That wording is honest; keep it until there is a real checkout.
+The page says "Preview only · not live · no checkout · prices and pieces are proposals" and tags every piece "Proposed". It shows 2AM-marked sample images until TheLight prints exist (see THELIGHT_LAUNCH_BLOCKERS.md, kept private on Chris's Mac). That wording is honest; keep it until there is a real checkout.
 
 ## Check it worked
 `dig +short thelight.2amcases.online` should answer `chriscancod.github.io.` and then the page loads over https.
