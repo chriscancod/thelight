@@ -31,9 +31,11 @@ The quote tool is Shopify's; you can register at any registrar. Nothing was boug
 - Cheapest honest option for launch: **no new domain**. Put TheLight on a subdomain of one Chris already owns (`thelight.mambru.online`, free) until sales pay for its own name.
 - Check what `mambru.online` and `2amcases.online` renew at in the registrar account (an adult has the login): that is the real `.online` number for us.
 
-## Re-checked on the live Tapstitch pages, 2026-11-01 (Claude read them; two of four so far)
+## Re-checked on the live Tapstitch pages, 2026-11-01 (Claude read them; all four)
 - **Standard Long Sleeve Tee** (rt0061): 85% cotton / 15% polyester, 280 gsm (8.3 oz), loose fit, round neck, drop shoulders, S to 2XL, "10 colors" (names not in the page text), base price $9.99 + shipping at checkout, blank available.
 - **Henley** (rt0044): it is a **SHORT-sleeve** henley. 67.27% cotton / 32.73% polyester, 280 gsm, loose fit, S to 2XL, "4 colors" (names not in the page text), base price $16.99 + shipping, blank available. So the earlier "cotton blend" is right but the exact split is 67/33, not 85/15. Say "short sleeve" on TheLight.
-- Not yet re-checked: Steady Polo and Resolve Fleece Polo (their listing URLs are not saved in our files; they need to be found on Tapstitch).
+- **Steady Polo / "Everyday Polo"** (pl0005): **SHORT-sleeve**, drop shoulder, loose fit, 50.5% polyester / 43.3% cotton / 6.2% spandex, 250 gsm, S to 3XL, "5 colors", base $12.99 + shipping, blank available. The page contradicts itself on the collar (text says "two-button collar", features say "round neck"), so TheLight does not mention the collar until a sample is seen.
+- **Heavyweight Fleece Polo Sweatshirt** (rw0019): long sleeve, drop shoulder, lapel collar (buttons not mentioned), loose fit, 65% cotton / 35% polyester, 445 gsm, S to 2XL, "5 colors", base $19.99 + shipping, blank available.
+- All four essentials are now checked on the live Tapstitch pages (2026-11-01). Note our 2AM store files call the fleece "The Resolve Fleece Polo Sweatshirt" with S to 2XL: matches.
 - The pages do not state production time or minimum order (placeholders). Do not promise a ship time to customers until a real test order shows it.
 - Base prices are what WE pay per item. A retail price, shipping and Square fees are a separate decision (unit economics: retail must cover base + shipping + fees + a profit; Chris and mom set it).
